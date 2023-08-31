@@ -7,5 +7,9 @@ body {
   color: black;
   font-family: Georgia, serif;
 }
-
+ htmlCopy code<style> 
+  .image-container { 
+    float: left; 
+  } 
+</style> 
 }
