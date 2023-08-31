@@ -7,3 +7,6 @@ body {
   color: black;
   font-family: Georgia, serif;
 }
+.div1, div2{
+   display: inline-block;
+}
